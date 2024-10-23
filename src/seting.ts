@@ -23,6 +23,14 @@ export const links: Linkdic[] = [
   {
     name: "rss",
     link: "https://hatmt.com/rss.xml"
+  },
+  {
+    name: "gh",
+    link: "https://github.com/hatimitu76/"
+  },
+  {
+    name: "github",
+    link: "https://github.com/hatimitu76/"
   }
 ];
 

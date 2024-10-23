@@ -13,11 +13,19 @@ export const links: Linkdic[] = [
     link: "https://bsky.app/profile/hatmt.com"
   },
   {
+    name: "bluesky",
+    link: "https://bsky.app/profile/hatmt.com"
+  },
+  {
     name: "mskyio",
     link: "https://misskey.io/@hatimitu_76"
   },
   {
     name: "mi",
+    link: "https://misskey.io/@hatimitu_76"
+  },
+  {
+    name: "misskey",
     link: "https://misskey.io/@hatimitu_76"
   },
   {
